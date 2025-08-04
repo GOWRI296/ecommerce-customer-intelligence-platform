@@ -1,7 +1,6 @@
-# Create the file
-echo streamlit > requirements.txt
-echo pandas >> requirements.txt
-echo numpy >> requirements.txt
-echo scikit-learn >> requirements.txt
-echo joblib >> requirements.txt
-echo pyarrow >> requirements.txt
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+pyarrow
